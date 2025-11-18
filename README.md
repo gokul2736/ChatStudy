@@ -1,5 +1,6 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
-
+# Ex. No:1B  Study of Client Server Chat Applications
+## Developed By: Markandeyan Gokul
+## Reg No: 212224240086
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -112,6 +113,7 @@ s.close()
 ```
 
 ## Output
+<img width="1852" height="430" alt="image" src="https://github.com/user-attachments/assets/c4762b5d-ed23-4255-8564-61e396390e00" />
 
 ## Result:
 
